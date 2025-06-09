@@ -1,0 +1,2 @@
+D:/Om_Ornament/android/app/.cxx/RelWithDebInfo/42g3l3l5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Om_Ornament/android/app/.cxx/RelWithDebInfo/42g3l3l5/arm64-v8a/CMakeFiles/rebuild_cache.dir

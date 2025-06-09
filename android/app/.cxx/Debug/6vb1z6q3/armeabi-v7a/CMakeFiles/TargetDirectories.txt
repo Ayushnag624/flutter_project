@@ -1,0 +1,2 @@
+D:/Om_Ornament/android/app/.cxx/Debug/6vb1z6q3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Om_Ornament/android/app/.cxx/Debug/6vb1z6q3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
